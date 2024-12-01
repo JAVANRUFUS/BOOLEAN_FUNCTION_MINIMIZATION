@@ -43,10 +43,11 @@ Developed by: RegisterNumber:*/
 **Output:**
 
 **RTL**
+![Screenshot (17)](https://github.com/user-attachments/assets/c77ede06-6a01-499b-8c1b-0d537d961bd9)
 
 **Timing Diagram**
+![Screenshot (18)](https://github.com/user-attachments/assets/5f918575-a270-4d42-9524-2b9444d9134c)
 
 **Result:**
-
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+Hence proved
 
